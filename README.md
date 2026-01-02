@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, Welcome Developer.<br>I'm Rohan Jaiswal A Frontend Web Developer in India.<br><br>Status: Working from home (Job), In Devlogs IIT.<br><br>Currently: React + Vite + Tailwind css.<br>
+Hey, Welcome Developer.<br>I'm Rohan Jaiswal A Full Stack Web Developer in India.<br><br>Status: Working from home (Job), In Devlogs IIT.<br><br>Currently: Freelancer <br>
 
 
 ## 🌐 Socials:
