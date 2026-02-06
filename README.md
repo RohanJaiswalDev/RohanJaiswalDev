@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, Welcome Developer.<br>I'm Rohan Jaiswal A MERN Stack Developer in India.<br><br>Status: Working from home (Job), In Devlogs IIT.<br><br>
+Hey, Welcome Developer.<br>I'm Rohan Jaiswal A MERN Full Stack Web Developer in India.<br><br>Status: Working from home (Job), In DevLogs IIT.<br><br>
 
 
 ## 🌐 Socials:
